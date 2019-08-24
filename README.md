@@ -1,2 +1,2 @@
-# deep-learning-practise
+# DEEP LEARNING - PRACTISE
 Personal deep learning project.
